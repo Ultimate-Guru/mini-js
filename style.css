@@ -4,3 +4,19 @@
     outline: none;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+button {
+    border-radius: 5px;
+}
+
+#green {
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+
+#red {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
