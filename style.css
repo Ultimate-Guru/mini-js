@@ -6,7 +6,11 @@
 }
 
 button {
+    border: none;
     border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    margin: 5px;
 }
 
 #green {
@@ -17,6 +21,12 @@ button {
 
 #red {
     background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+#blue {
+    background-color: blue;
     color: white;
     cursor: pointer;
 }
